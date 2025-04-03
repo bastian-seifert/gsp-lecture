@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "gower>=0.1.2",
     "kagglehub>=0.3.10",
     "matplotlib>=3.10.1",
     "networkx>=3.4.2",
